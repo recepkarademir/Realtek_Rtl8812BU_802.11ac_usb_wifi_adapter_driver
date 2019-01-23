@@ -12,15 +12,14 @@ For Realtek USB WLAN Family Controller. The driver released on the website only 
 | 32bit/64bit Windows7, Windows8.1, Windows10 WLAN USB driver (Install Package)  | 1030.25.0701.2017  | 2018/09/07 | 50 MB |
 
 
-![BaslikFoto](kebidu-1200Mbps-USB-WiFi-Wireless-Network-Card-802-11-b-g-n-LAN-Adapter-with-Antenna.jpg =250x250)
+![BaslikFoto](kebidu-1200Mbps-USB-WiFi-Wireless-Network-Card-802-11-b-g-n-LAN-Adapter-with-Antenna.jpg){:height="50%" width="50%"}
 
 ---
 
 ### Tested on Kebidu 1200Mbps USB 3.0 Wireless Wifi Adapter Dual Band
 
-![BaslikFoto](1200Mbps-Dual-Band-802-11ac-USB-3-0-RTL8812BU-Wireless-AC-1200-Wlan-USB-Wifi-Lan.jpg =250x250)
+![BaslikFoto](1200Mbps-Dual-Band-802-11ac-USB-3-0-RTL8812BU-Wireless-AC-1200-Wlan-USB-Wifi-Lan.jpg ){:height="700px" width="400px"}
 ---
-
 
 ## License
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](https://github.com/recepkarademir/Realtek_Rtl8812BU_802.11ac_usb_wifi_adapter_driver/blob/master/LICENSE)   [MIT](/LICENSE)
