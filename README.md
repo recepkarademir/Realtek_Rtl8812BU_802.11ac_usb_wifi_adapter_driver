@@ -1,0 +1,1 @@
+# Realtek_Rtl8812BU_802.11ac_usb_wifi_adapter_driver
