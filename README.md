@@ -2,7 +2,7 @@
 
 ![BaslikFoto](realtek-logo.png)
 
-## RTL8812BU Software  &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/recepkarademir/A-Computer_Engineering_Final_Year_Project/blob/master/LICENSE)
+## RTL8812BU Software  &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/recepkarademir/A-Computer_Engineering_Final_Year_Project/blob/master/LICENSE)
 For Realtek USB WLAN Family Controller. The driver released on the website only supports the following products: RTL8812AU/RTL8811AU/RTL8192EU/RTL8812BU/RTL8811CU/RTL8814AU: WLAN-only solutions, install WLAN driver
 
 ### Windows Driver Info
@@ -13,12 +13,11 @@ For Realtek USB WLAN Family Controller. The driver released on the website only 
 
 <img src="kebidu-1200Mbps-USB-WiFi-Wireless-Network-Card-802-11-b-g-n-LAN-Adapter-with-Antenna.jpg" alt="alt text" width="50%" height="50%">
 
-
 ---
 
 ### Tested on Kebidu 1200Mbps USB 3.0 Wireless Wifi Adapter Dual Band
+<img src="1200Mbps-Dual-Band-802-11ac-USB-3-0-RTL8812BU-Wireless-AC-1200-Wlan-USB-Wifi-Lan.jpg" alt="alt text" width="50%" height="50%">
 
-![BaslikFoto](1200Mbps-Dual-Band-802-11ac-USB-3-0-RTL8812BU-Wireless-AC-1200-Wlan-USB-Wifi-Lan.jpg ){:height="700px" width="400px"}
 ---
 
 ## License
