@@ -8,7 +8,7 @@ For Realtek USB WLAN Family Controller. The driver released on the website only 
 ### Windows Driver Info
 
 |  Description  |    Version    |   Update Time   |  File Size  |
-| ------------- | ------------- | --------------- | 
+| ------------- | ------------- | --------------- |------------ |
 | 32bit/64bit Windows7, Windows8.1, Windows10 WLAN USB driver (Install Package)  | 1030.25.0701.2017  | 2018/09/07 | 50 MB |
 
 
