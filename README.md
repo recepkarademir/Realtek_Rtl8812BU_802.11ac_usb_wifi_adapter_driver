@@ -2,7 +2,7 @@
 
 <br/>
 
-![BaslikFoto](realtek-logo.png)
+![BaslikFoto](img/realtek-logo.png)
 
 <br/><br/>
 ## RTL8812BU Software  &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/recepkarademir/A-Computer_Engineering_Final_Year_Project/blob/master/LICENSE)
@@ -18,13 +18,13 @@ For Realtek USB WLAN Family Controller. The driver released on the website only 
 
 
 <br/><br/>
-<img src="kebidu-1200Mbps-USB-WiFi-Wireless-Network-Card-802-11-b-g-n-LAN-Adapter-with-Antenna.jpg" alt="alt text" width="50%" height="50%">
+<img src="img/kebidu-1200Mbps-USB-WiFi-Wireless-Network-Card-802-11-b-g-n-LAN-Adapter-with-Antenna.jpg" alt="alt text" width="50%" height="50%">
 
 ---
 <br/><br/>
 
 ### Tested on Kebidu 1200Mbps USB 3.0 Wireless Wifi Adapter Dual Band
-<img src="1200Mbps-Dual-Band-802-11ac-USB-3-0-RTL8812BU-Wireless-AC-1200-Wlan-USB-Wifi-Lan.jpg" alt="alt text" width="50%" height="50%">
+<img src="img/1200Mbps-Dual-Band-802-11ac-USB-3-0-RTL8812BU-Wireless-AC-1200-Wlan-USB-Wifi-Lan.jpg" alt="alt text" width="50%" height="50%">
 
 ---
 <br/><br/>
