@@ -9,10 +9,10 @@ For Realtek USB WLAN Family Controller. The driver released on the website only 
 
 |  Description  |    Version    |   Update Time   |  File Size  |
 | ------------- | ------------- | --------------- |------------ |
-| 32bit/64bit Windows7, Windows8.1, Windows10 WLAN USB driver (Install Package)  | 1030.25.0701.2017  | 2018/09/07 | 50 MB |
+| 32bit/64bit Windows(7, 8.1, 10) WLAN USB driver (Install Package)  | 1030.25.0701.2017  | 2018/09/07 | 50 MB |
 
+<img src="kebidu-1200Mbps-USB-WiFi-Wireless-Network-Card-802-11-b-g-n-LAN-Adapter-with-Antenna.jpg" alt="alt text" width="50%" height="50%">
 
-![BaslikFoto](kebidu-1200Mbps-USB-WiFi-Wireless-Network-Card-802-11-b-g-n-LAN-Adapter-with-Antenna.jpg){:height="50%" width="50%"}
 
 ---
 
