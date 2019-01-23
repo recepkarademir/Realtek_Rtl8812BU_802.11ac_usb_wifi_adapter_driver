@@ -17,7 +17,7 @@ For Realtek USB WLAN Family Controller. The driver released on the website only 
 | 32bit/64bit Windows(7, 8.1, 10) WLAN USB driver (Install Package)  | 1030.25.0701.2017  | 2018/09/07 | 50 MB |
 <br/>
 
-[Download Driver Link](https://github.com/recepkarademir/Realtek_Rtl8812BU_802.11ac_usb_wifi_adapter_driver/blob/master/Rtl8812BU_WindowsDriver_1030.25.0701.2017.zip)
+[Download Driver Link](https://github.com/recepkarademir/Realtek_Rtl8812BU_802.11ac_usb_wifi_adapter_driver/raw/master/Rtl8812BU_WindowsDriver_1030.25.0701.2017.zip)
 
 
 <br/><br/>
