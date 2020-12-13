@@ -36,3 +36,5 @@ For Realtek USB WLAN Family Controller. The driver released on the website only 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](https://github.com/recepkarademir/Realtek_Rtl8812BU_802.11ac_usb_wifi_adapter_driver/blob/master/LICENSE)   [MIT](/LICENSE)
 
 Copyright 2019 © <a href="https://github.com/recepkarademir/Realtek_Rtl8812BU_802.11ac_usb_wifi_adapter_driver" target="_blank"> Realtek Software </a>
+
+## BU PROJENİN KULLANILABİLİRLİK SEVİYESİ: 10/10
